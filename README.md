@@ -36,5 +36,3 @@ Azure Cloud, Distributed Systems
 ![.NET Developer](https://img.shields.io/badge/.NET-Developer-512BD4?style=for-the-badge&logo=dotnet)
 ![Full Stack](https://img.shields.io/badge/Full_Stack-Engineer-0078D7?style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Azure-Cloud-0089D6?style=for-the-badge&logo=microsoft-azure)
-
-        Too many current requests. Your queue position is 1. Please wait for a while or switch to other models for a smoother experience.
