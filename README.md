@@ -33,6 +33,6 @@ Azure Cloud, Distributed Systems
 - Client-focused solution delivery 🤝
 - Open-source contribution 🌐
 
-![.NET Developer](https://img.shields.io/badge/.NET-Developer-512BD4?style=for-the-badge&logo=dotnet)
+![Developer](https://img.shields.io/badge/.NET-Developer-512BD4?style=for-the-badge&logo=dotnet)
 ![Full Stack](https://img.shields.io/badge/Full_Stack-Engineer-0078D7?style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Azure-Cloud-0089D6?style=for-the-badge&logo=microsoft-azure)
