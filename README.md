@@ -10,7 +10,7 @@
 - **📍 Location:** Tunisia, Sousse
 
 ## 💼 Professional Summary
-Web developer with 2+ years of experience building applications with .NET, React, and Azure. I've created school management systems and billing solutions that work well as teams grow. I'm good at working with distributed systems, databases, and writing clean code that's easy to maintain.
+Web developer with 3+ years of experience building applications with .NET, React, and Azure. I've created school management systems and billing solutions that work well as teams grow. I'm good at working with distributed systems, databases, and writing clean code that's easy to maintain.
 
 ## 🛠️ Technical Skills
 
