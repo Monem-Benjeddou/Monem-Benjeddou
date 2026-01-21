@@ -45,20 +45,6 @@ Git, GitHub Actions, Azure DevOps, CI/CD, Docker, Grafana, Vector, Portainer, xU
   - Midnight_Invaders team: Developed application during overnight coding challenge
   - Team project with Adem Blel and Omar Zhioua
 
-## 🚀 Featured Projects
-
-### Production Systems
-- **[HR Document Q&A](https://hr-agent.momrahai.com/)** — Arabic HR assistant with document-grounded answers + streaming. ~5k queries/day, 92% accuracy
-- **[Aoun](https://aoun-app.momrahai.com/)** — Multi-agent workflow (search/summarize/answer) with SSO for a Saudi ministry (10k+ users)
-- **[KOLCT](https://neo.kolct.com/ar)** — NFC card store with secure checkout + AI video generator flow
-- **[Startup Funding Platform](https://dashboard-staging.neov.sa/)** — Funding workflow with RBAC and audit logs
-
-### Open Source
-- **[BMDRM.LibSQL.Core](https://github.com/bmdrm/BMDRM.LibSql)** — EF Core provider for LibSQL (published on NuGet; 29 GitHub stars)
-- **[ImageFlow](https://github.com/Monem-Benjeddou/SeaSnap.Image)** — Multi-tenant image management with company isolation, RBAC, and React UI
-- **[Shaka Player Extended](https://github.com/Monem-Benjeddou/Shaka-Player-Extended)** — Shaka Player fork with chapters + thumbnail previews from VTT files
-- **[Orleans Course](https://github.com/Monem-Benjeddou/Orleans.Course)** — Student management app built with Microsoft Orleans (virtual-actor model)
-
 ## 🌟 Core Competencies
 - Full-stack .NET development ⚙️
 - AI/ML systems and RAG implementations 🤖
@@ -68,7 +54,7 @@ Git, GitHub Actions, Azure DevOps, CI/CD, Docker, Grafana, Vector, Portainer, xU
 - Performance optimization and observability 📊
 - Open-source contribution 🌐
 
-![.NET Developer](https://img.shields.io/badge/.NET-Developer-512BD4?style=for-the-badge&logo=dotnet)
+![Developer](https://img.shields.io/badge/.NET-Developer-512BD4?style=for-the-badge&logo=dotnet)
 ![AI Engineer](https://img.shields.io/badge/AI-Engineer-FF6F00?style=for-the-badge&logo=tensorflow)
 ![Backend Engineer](https://img.shields.io/badge/Backend-Engineer-0078D7?style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Azure-Cloud-0089D6?style=for-the-badge&logo=microsoft-azure)
