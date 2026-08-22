@@ -3,7 +3,7 @@
 **Software Engineer — .NET · Azure · AI Systems**
 📍 Sousse, Tunisia · Remote
 
-.NET and Azure engineer with 3+ years shipping production backends and AI features into real products. Currently building for a Saudi ministry (MOMAH) platform serving 10,000+ employees: ASP.NET Core services, document pipelines, and AEGIS Arabic PII detection at 10k docs/day.
+.NET and Azure engineer with 4+ years shipping production backends and AI features into real products. Currently building for a Saudi ministry (MOMAH) platform for employees: ASP.NET Core services, document pipelines, and AEGIS Arabic PII detection at 10k docs/day.
 
 I like the boring parts done right — schema, APIs, tests, releases, monitoring.
 
