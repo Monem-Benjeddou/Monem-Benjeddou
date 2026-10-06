@@ -1,62 +1,36 @@
-# Hi, I'm Monem Benjeddou 👋
+# Monem Benjeddou
 
-**Software Engineer — .NET · Azure · AI Systems**
-📍 Sousse, Tunisia · Remote
+Backend engineer. I build Python services with FastAPI and Django, and the RAG and LLM agent systems that run on top of them. Based in Sousse, Tunisia, working remotely.
 
-.NET and Azure engineer with 4+ years shipping production backends and AI features into real products. Currently building for a Saudi ministry (MOMAH) platform for employees: ASP.NET Core services, document pipelines, and AEGIS Arabic PII detection at 10k docs/day.
+### Right now
 
-I like the boring parts done right — schema, APIs, tests, releases, monitoring.
+I lead the backend of a distributed government platform in Saudi Arabia, used by 10,000+ staff.
 
----
+- **Arabic PII detection.** An ensemble of Presidio, GLiNER, AraBERTv2 and CAMeL Tools on self-hosted models, running 10,000 documents a day. It passed legal review with no revisions.
+- **RAG and agents.** A multi-agent system on Azure AI Search, with Azure OpenAI and Claude on Azure AI Foundry, that reads documents and drafts reports for senior leadership.
+- **The plumbing.** FastAPI services and Celery workers on PostgreSQL, a document pipeline over 50,000 files at 99.7% uptime, SAML SSO with audit logging, and 1,489 tests gating releases.
 
-## 🔧 What I work with
+That code is private. What's public is below.
 
-**.NET** — C#, .NET 8, ASP.NET Core, EF Core, Blazor, gRPC, xUnit
-**Azure & DevOps** — App Service, Azure DevOps, Service Bus, Azure AD / SSO, GitHub Actions, Docker, Kubernetes
-**AI / Applied ML** — Arabic PII detection (Presidio, GLiNER, AraBERTv2, CAMeL Tools), document processing pipelines, concurrent worker inference
-**Data & APIs** — PostgreSQL, SQL Server, Redis, REST, EF Core migrations
-**Observability** — Prometheus, Grafana, ClickStack, CI-gated pipelines
-**Also** — Python (FastAPI, Django), TypeScript, React, Celery, RabbitMQ, CQRS, RBAC / SAML
-
----
-
-## 🚀 Projects
-
-### [BMDRM.LibSQL.Core](https://github.com/Monem-Benjeddou)
-Open-source EF Core + LINQ adapter for LibSQL. Published to NuGet across 15 releases — 1,500+ downloads, 50+ projects, 95% test coverage.
-`.NET` `EF Core` `LibSQL`
-
-### ImageFlow
-Multi-tenant image platform with RBAC and chunked uploads. Galleries of 1,000+ assets load under 200ms; upload API under 100ms.
-`.NET 8` `ASP.NET Core` `React` `PostgreSQL` `SeaweedFS`
-
----
-
-## 💼 Experience
+### Open source
 
 | | |
 |---|---|
-| **Software Engineer** — Try-Loop / Saudi Ministry (MOMAH) | Oct 2025 – Present |
-| **Backend Developer (Contract)** — NEO | Jun 2025 – Sep 2025 |
-| **Software Developer** — Softylines | Aug 2022 – Jun 2025 |
+| [**ScreenBeam**](https://github.com/Monem-Benjeddou/ScreenBeam) | Stream your Mac's screen and sound to an Android phone, and use the phone as a mouse, keyboard or game controller. |
+| [**SnapStash**](https://github.com/Monem-Benjeddou/SnapStash) | Free screenshot tool for macOS: area, window and full-screen capture, text from screen, pin and drag. |
+| [**ClipStash**](https://github.com/Monem-Benjeddou/ClipStash) | Clipboard history for macOS. Search everything you've copied and paste it again. |
+| [**AppMixer**](https://github.com/Monem-Benjeddou/AppMixer) | Per-app volume control for macOS. No drivers. |
+| [**BMDRM.LibSql.Core**](https://www.nuget.org/packages/BMDRM.LibSql.Core) | EF Core and LINQ provider for LibSQL, on NuGet. 11,000+ downloads. |
+| [**Orleans.Course**](https://github.com/Monem-Benjeddou/Orleans.Course) | Course code for Microsoft Orleans, the .NET virtual-actor framework. |
 
-A few things I'm proud of:
-- Shipped AEGIS, an Arabic PII detection ensemble processing 10,000 docs/day across 50 workers — passed legal review with no revisions.
-- Took a failing production checkout path from 65% → 99.5% success (Django REST + Redis).
-- Replaced a 2-hour manual provisioning job with an event-driven worker across 12 departments — ~80 hours/month saved, security findings down 75%.
-- Stood up Docker, Kubernetes, Azure DevOps, and Grafana from scratch — monthly releases became weekly, MTTR 4h → 45min.
+### Stack
 
----
+**Python** · FastAPI · Django REST Framework · Celery · Pydantic · SQLAlchemy  
+**AI** · RAG · LangChain · Azure AI Search · Chroma · Azure OpenAI · Claude · Hugging Face models  
+**Data** · PostgreSQL · Redis · SQL Server  
+**Infra** · Azure · Docker · Kubernetes · Prometheus · Grafana · OpenTelemetry  
+**Also** · C# / .NET · ASP.NET Core · EF Core · React · TypeScript
 
-## 🌍 Languages
+### Contact
 
-Arabic (Native) · English (Fluent) · French (Fluent)
-
----
-
-## 📫 Reach me
-
-[![Email](https://img.shields.io/badge/Email-monem.benjeddou%40gmail.com-1a365d?style=flat-square&logo=gmail&logoColor=white)](mailto:monem.benjeddou@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Monem--Benjeddou-181717?style=flat-square&logo=github)](https://github.com/Monem-Benjeddou)
-
-📞 +216 26 102 701
+[monem.benjeddou@gmail.com](mailto:monem.benjeddou@gmail.com) · [LinkedIn](https://www.linkedin.com/in/benjeddou-monem-63ab50175) · Arabic, English, French
