@@ -27,11 +27,14 @@ I build Python backends with FastAPI and Django, and the RAG and LLM agent syste
 
 | | |
 |---|---|
-| 📺 [**ScreenBeam**](https://github.com/Monem-Benjeddou/ScreenBeam) | Stream your Mac's screen and sound to an Android phone, and use the phone as a mouse, keyboard or game controller. |
-| 📸 [**SnapStash**](https://github.com/Monem-Benjeddou/SnapStash) | Free screenshot tool for macOS: area, window and full-screen capture, text from screen, pin and drag. |
-| 📋 [**ClipStash**](https://github.com/Monem-Benjeddou/ClipStash) | Clipboard history for macOS. Search everything you've copied and paste it again. |
-| 🎚️ [**AppMixer**](https://github.com/Monem-Benjeddou/AppMixer) | Per-app volume control for macOS. No drivers. |
+| 🔐 [**KestrelAcme**](https://github.com/Monem-Benjeddou/KestrelAcme) | Automatic HTTPS for ASP.NET Core. Let's Encrypt certificates for Kestrel, issued and renewed in-process, wildcards included. On NuGet. |
+| 🔎 [**DiScope**](https://github.com/Monem-Benjeddou/DiScope) | Shows the dependency injection graph of a .NET app and finds captive dependencies, missing registrations and cycles in its real IServiceCollection. |
 | 📦 [**BMDRM.LibSql.Core**](https://www.nuget.org/packages/BMDRM.LibSql.Core) | EF Core and LINQ provider for LibSQL, on NuGet. 11,000+ downloads. |
+| 📺 [**ScreenBeam**](https://github.com/Monem-Benjeddou/ScreenBeam) | Stream your Mac's screen and sound to an Android phone, and use the phone as a mouse, keyboard or game controller. |
+| 🛡️ [**QuietNet**](https://github.com/Monem-Benjeddou/QuietNet) | Block ads and trackers in every Android app, plus YouTube without ads. One switch, no root. |
+| 🔓 [**Airlock**](https://github.com/Monem-Benjeddou/Airlock) | Native macOS app to install, vet and manage Android apps over ADB. |
+| 📸 [**SnapStash**](https://github.com/Monem-Benjeddou/SnapStash) | Free screenshot tool for macOS: area, window and full-screen capture, text from screen, pin and drag. |
+| 🎚️ [**AppMixer**](https://github.com/Monem-Benjeddou/AppMixer) | Per-app volume control for macOS. No drivers. |
 | 🎭 [**Orleans.Course**](https://github.com/Monem-Benjeddou/Orleans.Course) | Course code for Microsoft Orleans, the .NET virtual-actor framework. |
 
 The government platform work is private. The numbers in the terminal above are from it.
